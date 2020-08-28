@@ -12,7 +12,6 @@ src/obj-test/*.P
 src/obj/build.h
 src/qt/locale/*.qm
 src/clean.sh
-Makefile
 Makefile.Debug
 Makefile.Release
 object_script.BitZyon-qt.Debug
