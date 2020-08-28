@@ -26,6 +26,8 @@ namespace Checkpoints
         boost::assign::map_list_of
         //( 0,      hashGenesisBlock )
         ( 0, hashGenesisBlock )
+        ( 100,      uint256("0x000007b8ff480c34483a7adbd99f2f19ba2d8824f3c39651a7dfbd3070b3a138") )
+        ( 200,      uint256("0x000000df0bdff2c9f70010e467942974c3009beb5e185b250710fa17c5067d79") ) // Fim da PreMineração
     ;
 
     // TestNet has no checkpoints
