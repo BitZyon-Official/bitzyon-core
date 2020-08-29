@@ -57,18 +57,18 @@
 
 
 # Phases of Bitzyons [POW] (Blocks):
-Block  - 0 a 200 = 140000 ZYON's
-Block  - 201 a 1000 = 0.05 * ZYON's
-Block  - 1001 a 2250004 = 0.025 * ZYON's
-Block  - 2250005 a  6650012 =  0.01 * ZYON's
+  - **Block:** 0 a 200 = 140000 ZYON's
+  - **Block:** 201 a 1000 = 0.05 * ZYON's
+  - **Block:** 1001 a 2250004 = 0.025 * ZYON's
+  - **Block:** 2250005 a  6650012 =  0.01 * ZYON's
   
 # Phases of Bitzyons [POS] (Blocks):
-Block  - 201 a 600001 = 50 * ZYON's
-Block  - 600002 a 1150002 = 25 * ZYON's
-Block  - 1150003 a 2250004 = 13 * ZYON's
-Block  - 2250005 a 2800005 = 6 * ZYON's
-Block  - 2800006 a 3350006 = 3 * ZYON's
-Block  - 3350007 a 6650012 = 2 * ZYON's
+  - **Block:** 201 a 600001 = 50 * ZYON's
+  - **Block:** 600002 a 1150002 = 25 * ZYON's
+  - **Block:** 1150003 a 2250004 = 13 * ZYON's
+  - **Block:** 2250005 a 2800005 = 6 * ZYON's
+  - **Block:** 2800006 a 3350006 = 3 * ZYON's
+  - **Block:** 3350007 a 6650012 = 2 * ZYON's
 
 # Compile Source<br>
 **Download and install the dependencies:**<br>
