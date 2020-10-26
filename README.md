@@ -1,6 +1,6 @@
 [![N|Solid](http://explorer.bitzyon.com/images/logo.png)](https://bitzyon.com/)
 # BitZyon - The BitZyon blockchain was designed 100% Staking
-# Version: 1.0.0.0 BETA
+# Version: 1.0.0.1 BETA
 
 - Broadcastthe use of cryptocurrencies as a way to transfer financial resources between people, using blockchain technology, from order to provide safe and decentralized economic operations, for social messenger application.
 
