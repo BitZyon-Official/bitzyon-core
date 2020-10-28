@@ -107,6 +107,7 @@ rpcallowip=127.0.0.1
 testnet=0
 addnode=seed1.bitzyon.com:44570
 addnode=seed2.bitzyon.com:44570
+addnode=seed3.bitzyon.com:44570
 ```
 
 # sperocoin.conf - Testnet
@@ -125,6 +126,7 @@ rpcallowip=127.0.0.1
 testnet=1
 addnode=seed1.bitzyon.com:44570
 addnode=seed2.bitzyon.com:44570
+addnode=seed3.bitzyon.com:44570
 ```
 
 # Exchanges:
